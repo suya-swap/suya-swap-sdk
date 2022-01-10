@@ -1,4 +1,4 @@
-# WakandaSwap SDK
+# SuyaSwap SDK
 
 ## Running tests
 
@@ -7,13 +7,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/wakandaswap/wakanda-swap-sdk.git
+git clone https://github.com/suya-swap/suya-swap-sdk
 ```
 
-Move into the wakanda-swap-sdk working directory
+Move into the suya-swap-sdk working directory
 
 ```sh
-cd wakanda-swap-sdk/
+cd suya-swap-sdk/
 ```
 
 Install dependencies
